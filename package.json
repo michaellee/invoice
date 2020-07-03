@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "handlebars": "^4.0.10",
+    "html-pdf": "^2.1.0",
+    "moment": "^2.18.1",
+    "toml": "^2.3.3"
+  }
+}
+  

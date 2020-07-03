@@ -1,0 +1,22 @@
+paid = 0
+
+[myInfo]
+firstName = 'Lucius'
+lastName = 'Fox'
+address = '1 Wayne Way'
+city = 'Gotham City'
+state = 'NY'
+zip = '10101'
+
+[client]
+name = 'Wayne Enterprises'
+
+[invoiceDetail]
+id = '00215'
+date = '2017-08-30'
+
+[[items]]
+type = 'Software Development'
+description = 'Super smart algorithm to track down the Joker'
+unitCost = 100000.00
+quantity = 1
